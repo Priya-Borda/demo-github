@@ -1,5 +1,10 @@
 # demo-github
+
 Demo repository
+
+## How to Contribute
+
+please fork this repository and then review.
 
 ### Copyright
 
